@@ -39,10 +39,4 @@ Always open to collaborating on projects, innovative ideas, and open-source cont
 -  Experience with building real-world projects during university
 -  Passionate about clean architecture and scalable backend systems
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salem-Saleh&show_icons=true&count_private=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Salem-Saleh&theme=dark&mode=weekly)
-
----
-
 
